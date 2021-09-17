@@ -46,5 +46,5 @@
 * Run index.html in liver server
 
 # Visual Presentation of the Project
-[Live Presentation](https://bluemercurryclone.netlify.app/html/signup.html)
+[Live Presentation](https://bluemercurryclone.netlify.app/)
 
