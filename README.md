@@ -23,5 +23,28 @@
 
 # Glimpse of Our Work
 
+## Landing Page
+![Landing](https://github.com/Avinash7564/bluemercurry_clone/blob/master/bluemercurry_screenshots/landing_page.png)
 ## Login Page
+![Login](https://github.com/Avinash7564/bluemercurry_clone/blob/master/bluemercurry_screenshots/login_page.png)
+## Signup Page
+![signup](https://github.com/Avinash7564/bluemercurry_clone/blob/master/bluemercurry_screenshots/signup_page.png)
+## ShopAll Page
+![shopall](https://github.com/Avinash7564/bluemercurry_clone/blob/master/bluemercurry_screenshots/Shopall_page.png)
+## Cart Page
+![cart](https://github.com/Avinash7564/bluemercurry_clone/blob/master/bluemercurry_screenshots/cart_all.png)
+![cart1](https://github.com/Avinash7564/bluemercurry_clone/blob/master/bluemercurry_screenshots/Cart_page.png)
+## Checkout Page
+![checkout](https://github.com/Avinash7564/bluemercurry_clone/blob/master/bluemercurry_screenshots/checkout_page.png)
+## Payment Page
+![Payment](https://github.com/Avinash7564/bluemercurry_clone/blob/master/bluemercurry_screenshots/payment_page.png)
+
+
+# To start our Project on your Machine
+* Create a new Folder 
+* Clone this repository :- `https://github.com/Avinash7564/bluemercurry_clone`
+* Run index.html in liver server
+
+# Visual Presentation of the Project
+[Live Presentation](https://bluemercurryclone.netlify.app/html/signup.html)
 
