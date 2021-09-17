@@ -1,1 +1,27 @@
-# bluemercurry_clone
+# Bluemercurry_clone
+### Bluemercury is a chain of American beauty stores founded in 1999 by Marla Malcolm Beck and Barry Beck. This project was build as a construct week project by Masai School Students.
+
+# Team Members
+* Piyush Kumar
+* Kumar Ankush
+* Avinash Kumar
+
+# Features
+* You will find different products on this website.
+* It has feature of authentication, signup, reset password.
+* It has different categories. User can find products using filters such as price.
+* User can add a particular product to cart by clicking on product and selecting yes/ok from pop up.
+* User can add product to cart only one time.
+* On clicking on a product, user will redirected to a new page to see all details of the product.
+* User can select quantity for each product in a cart.
+* User can apply promo code for discount.
+
+# Technologies that we used
+* HTML
+* CSS
+* Javascript
+
+# Glimpse of Our Work
+
+## Login Page
+
